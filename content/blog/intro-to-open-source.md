@@ -13,7 +13,7 @@ University of Windsor!  Very cool indeed.
 Last week, I ran a set of workshops at the University of Windsor geared towards the Masters of Applied Computing
 students.  I used [Paul Preney's](http://www.preney.ca/paul/) beautiful Beamer template for LaTeX to design a 3-day
 workshop that covers the basics of Open Source development and how to get started with it.  I've decided to host the PDF
-[here](https://speechweb2.cs.uwindsor.ca/~peelar/workshop.pdf), so if you're interested, don't hesitate to take a look.
+[here](http://speechweb2.cs.uwindsor.ca/~peelar/workshop.pdf), so if you're interested, don't hesitate to take a look.
 
 Oh, I also got my Haskell thesis code running on the very router that is serving these web pages to you right now.
 Hopefully I could start actually hosting it from here in the future as a cool proof of concept.
