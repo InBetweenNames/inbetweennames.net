@@ -3,7 +3,7 @@ title = "InBetweenNames"
 theme = "manis"
 
 # Copyright notice. Note: You can use HTML tag here
-copyright = "&copy; 2019 Shane Peelar"
+copyright = "&copy; 2021 Shane Peelar"
 pluralizeListTitles = false
 
 # Minimum number of posts before paginate navigation show up
@@ -24,18 +24,18 @@ pygmentsUseClasses = true
 
 [params]
   authorname = "Shane Peelar"
-	
+
   # If false, use minified CSS (ui.min.css)
 	debugCSS = true
 	# Custom CSS
 	customCSS = []
-	
+
 	# List of sections support disqus comments
 	disqusSections = [ "blog" ]
 	# Site meta description
 	description = "International Journal of Cool and Interesting Things"
 	# Site's Tagline (Subtitle or Keyword)
-	tagline = "PhD Candidate / Aspiring Computer Scientist / Dog Whisperer"
+	tagline = "Computer Scientist (Ph.D.) / Dog Whisperer"
 
   authorimg = "img/maizyandme-180.jpg"
 	# If true give attribution to this theme
@@ -70,7 +70,7 @@ pygmentsUseClasses = true
 
 	# Code Highlighting (HighlightJS)
 	highlightJs = false
-	highlightJsLanguages = [ "go" ]
+	highlightJsLanguages = [ "c++" ]
 	highlightJsStyle = "ocean"
 
 	# Social Links
