@@ -1,6 +1,8 @@
 baseURL = "https://inbetweennames.net/"
-title = "InBetweenNames"
+title = "Shane Peelar's Blog"
 theme = "manis"
+
+buildDrafts = true
 
 # Copyright notice. Note: You can use HTML tag here
 copyright = "&copy; 2021 Shane Peelar"
@@ -36,8 +38,10 @@ pygmentsUseClasses = true
 	description = "International Journal of Cool and Interesting Things"
 	# Site's Tagline (Subtitle or Keyword)
 	tagline = "Computer Scientist (Ph.D.) / Dog Whisperer"
+	professionalTagLine = "Computer Scientist (Ph.D.)"
 
-  authorimg = "img/maizyandme-180.jpg"
+  authorimg = "/img/maizyandme-180.jpg"
+  professionalauthorimg = "/img/shane-180.jpg"
 	# If true give attribution to this theme
 	themeAttrib = true
 	# URL to license file, can be outside of your domain
