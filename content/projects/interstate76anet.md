@@ -26,12 +26,12 @@ eliminating the need to manually forward ports to play Nitro.  The UPnP support 
 open-source [miniupnpc](https://github.com/miniupnp/miniupnp) library.  I believe this patch
 could also be used to provide UPnP benefits to other anet2-based games, too (looking at you, Battlezone).
 
-You do need to use an anet2 server to play if you use this patch, however.  Fortunately, there are many
+You do need to use an ANet2 server to play if you use this patch, however.  Fortunately, there are many
 available, including the recommended battlezone1.net server.  To play, just select "battlezone1.net"
 from the server list when you host or join a game, and you'll be able to see other games once again.
 
 ## Installation
-Just extract the files into the game directory, replacing anet2.dll and winets2.dll.
+Just extract the files into the game directory, replacing `anet2.dll` and `winets2.dll`.
 
 ## [Source Code](https://peelar.myweb.cs.uwindsor.ca/anet-0.10-upnp.zip)
 
@@ -42,7 +42,7 @@ and added it to the list of libraries to link in the winets.mak NMAKE file.
 
 To solve
 the problem of structure packing being different in generated code for both compilers, I forced both compilers to
-treat the structures as tightly packed with appropriate compiler pragmas (#pragma ms_struct was not available on my 
+treat the structures as tightly packed with appropriate compiler pragmas (`#pragma ms_struct` was not available on my 
 build of of TDM-GCC).
 
 # [Interstate 76 (non-Nitro) Patch](https://peelar.myweb.cs.uwindsor.ca/WINET.DLL)
