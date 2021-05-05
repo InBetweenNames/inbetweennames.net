@@ -18,10 +18,12 @@ might be worth a read.
 
 I've never felt right without having some personal project on the go.  In my free time, I like to study
 older videogames.  Specifically, I like taking them apart and fixing bugs in them!  I plan to do a lot of writing
-about that here over the next little while.  My most noteworthy work in that area has been in fixing bugs in the game Interstate '76,
-a project I find myself coming back to frequently over the years.
+about that here over the next little while.  My most noteworthy work in that area has been getting online play working again 
+in the game Interstate '76 (and its Nitro Pack expansion), a project I find myself coming back to frequently over the years.
+When I'm not working on personal projects, I really enjoy playing music.
 
 In industry, I've spent a lot of time writing highly performant C++ with a bit of heterogeneous programming thrown
 into the mix, mostly for simulation or graphical related work.  I've spent some time on the Khronos Group OpenCL
 Working Group as well through the University of Windsor.  I encourage you to check out my publication record if you want
 to know more!
+
