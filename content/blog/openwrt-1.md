@@ -1,5 +1,6 @@
 +++
-title = "Adventures in OpenWRT: Hosting a blog on your router"
+title = "Adventures in OpenWRT"
+subtitle = "Hosting a Blog on your router"
 date = "2019-04-08T12:38:14-04:00"
 description = "A guide on hosting a small website on your home router"
 part = "1"

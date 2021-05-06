@@ -1,7 +1,7 @@
 +++
 title = "Interstate '76/Nitro pack netcode patches"
 description = "Patches to allow you to play Multiplayer Interstate'76/Nitro Pack once again"
-draft = false
+tags = ["i76"]
 +++
 
 This page was brought over from my old [cs.uwindsor.ca/~peelar](https://cs.uwindsor.ca/~peelar) home page.
@@ -84,7 +84,7 @@ the most I can release are my notes and debugging files.  They are provided belo
 
 * [WINET.DLL udd file](https://peelar.myweb.cs.uwindsor.ca/Winet.udd)
 * [ANETDLL.DLL udd file](https://peelar.myweb.cs.uwindsor.ca/anetdll.udd)
-* [Notes on data structures used in both (contains some documentation of game operation too)](https://peelar.myweb.cs.uwindsor.ca/blerh.txt")
+* [Notes on data structures used in both (contains some documentation of game operation too)](https://peelar.myweb.cs.uwindsor.ca/blerh.txt)
 
 The UDD files are intended to be used with OllyDbg Version 2.01 alpha 4.
 Drag these files to your OllyDbg installation folder before opening

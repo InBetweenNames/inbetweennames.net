@@ -1,9 +1,11 @@
 +++
-title = "Adventures in OpenWRT: Hosting a blog on your router"
+title = "Adventures in OpenWRT"
+subtitle = "Hosting a Blog on your router"
 date = "2019-04-09T15:18:20-04:00"
 description = "Introduction"
 part = "2"
 endPart = "N"
+tags = ["openwrt"]
 +++
 
 [Last time](/blog/openwrt-1/), I gave an overview of what is required to host your blog on your home router.
