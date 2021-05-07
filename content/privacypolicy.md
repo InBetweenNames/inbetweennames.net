@@ -8,7 +8,8 @@ in any of your personal information, and all collected information is heavily an
 What I'm interested in is how long it takes pages to load, which pages are being visited and when, and which
 rough geographic region they're being visited from.
 
-**This site respects the Do Not Track (DNT) setting in your browser.**
+**This site respects the Do Not Track (DNT) setting in your browser.  If you are using a form of adblock that also blocks
+analytics, e.g. [UBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin),  you also won't be tracked.**
 
 # Collection of Information
 The following information is collected when you visit:

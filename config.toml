@@ -90,6 +90,7 @@ unsafe= true
 		url = "https://matomo.inbetweennames.net/"
 		siteId = 1
 		trackingMethod = ["javascript","image"]
+		cookies = false
 
 # Language Configuration
 #[languages.in]
