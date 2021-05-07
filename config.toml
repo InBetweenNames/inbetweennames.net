@@ -12,7 +12,7 @@ pluralizeListTitles = false
 paginate = 10
 
 # Your disqus shortname
-disqusShortname = ""
+#disqusShortname = ""
 
 # Edit this if you want to translate your blog
 defaultContentLanguage = "en"
@@ -36,7 +36,7 @@ unsafe= true
 	customCSS = []
 
 	# List of sections support disqus comments
-	disqusSections = [ "blog" ]
+	#disqusSections = [ "blog" ]
 	# Site meta description
 	description = "International Journal of Cool and Interesting Things"
 	# Site's Tagline (Subtitle or Keyword)
@@ -86,7 +86,10 @@ unsafe= true
   linkedin = "https://www.linkedin.com/in/shane-peelar-29a2005a/"
 
 	#analytics
-	#matomo = "//matomo.inbetweennames.net/"
+	[params.matomo]
+		url = "//matomo.inbetweennames.net/"
+		siteId = 1
+		trackingMethod = ["javascript","image"]
 
 # Language Configuration
 #[languages.in]
