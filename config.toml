@@ -86,7 +86,7 @@ unsafe= true
   linkedin = "https://www.linkedin.com/in/shane-peelar-29a2005a/"
 
 	#analytics
-	matomo = "//matomo.inbetweennames.net/"
+	#matomo = "//matomo.inbetweennames.net/"
 
 # Language Configuration
 #[languages.in]
