@@ -87,7 +87,7 @@ unsafe= true
 
 	#analytics
 	[params.matomo]
-		url = "//matomo.inbetweennames.net/"
+		url = "https://matomo.inbetweennames.net/"
 		siteId = 1
 		trackingMethod = ["javascript","image"]
 
