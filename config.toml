@@ -85,6 +85,9 @@ unsafe= true
 	github = "https://github.com/InBetweenNames/"
   linkedin = "https://www.linkedin.com/in/shane-peelar-29a2005a/"
 
+	#analytics
+	matomo = "//matomo.inbetweennames.net/"
+
 # Language Configuration
 #[languages.in]
 #	lang = "in"
