@@ -9,7 +9,8 @@ What I'm interested in is how long it takes pages to load, which pages are being
 rough geographic region they're being visited from.
 
 I'll never share this information with any other entity.  The data is entirely
- under my exclusive control for the purposes outlined above.  No organizations will receive this information.
+ under my exclusive control for the purposes outlined above.  No other organizations or entities will ever receive this information.
+The information is not for sale, for rent, trade, etc.
 
 **This site respects the Do Not Track (DNT) setting in your browser.  If you are using a form of adblock that also blocks
 analytics, e.g. [UBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin),  you also won't be tracked.**
@@ -27,6 +28,8 @@ The following information is collected when you visit:
  * Main language of the browser (Accept-Language header your browser sends)
  * User agent of the browser, which may include your Operating System, device used, brand and model
  * Page generation time
+
+There is no unique User ID assigned to you, implied or explicit.
 
 **If you want to disable all tracking, you can opt out below:**
 
