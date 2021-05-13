@@ -46,11 +46,14 @@ contributor on the OpenCL 2.2 specification.
 
 * **Chief Computer Scientist** (*January 2021 - April 2021*)
     * Research and development of Additive Manufacturing simulation models ("Part Models") and software, including heat modelling
-    * Planning and overseeing various research projects within the company* Publishing results in relevant journals and conferences
-    * C++ development using the latest C++ standard (C++20)* Meeting with customers to address their needs directly
+    * Planning and overseeing various research projects within the company
+    * Publishing results in relevant journals and conferences
+    * C++ development using the latest C++ standard (C++20)
+    * Meeting with customers to address their needs directly
     * Project planning, including estimating and establishing timelines, and overseeing product development
-    * Using low-level programming techniques (SIMD/vectorization) to achieve greater throughput duringsimulations
-    * Software performance analysis and optimization (Intel vTune, etc)* Accelerating bulk workloads using OpenCL (heterogeneous programming)
+    * Using low-level programming techniques (SIMD/vectorization) to achieve greater throughput during simulations
+    * Software performance analysis and optimization (Intel vTune, etc)
+    * Accelerating bulk workloads using OpenCL (heterogeneous programming)
     * Maintenance of software, including developing and undertaking plans to integrate and unify existing code
     * Development of debugging tools to assist other developers
     * Development and implementation of Code Review practices in the organization
