@@ -29,11 +29,11 @@ contributor on the OpenCL 2.2 specification.
 
 * **Doctor of Philosophy (Ph.D.), Computer Science, University of Windsor**  
 (*January 2017 - June 2021*)
-    * Natural Language Semantics. Defended December 2020, work is published, graduating June 2021.
+    * Natural Language Semantics. Defended December 2020, work is published, graduated June 2021.
 
 * **Master of Science (M.Sc.), Computer Science, University of Windsor**  
 (*September 2014 - May 2017*)
-    * Natural Language Semantics. Successfully defended December 2016, graduated May 2017
+    * Natural Language Semantics. Successfully defended December 2016, graduated May 2017.
     
 * **Bachelor of Science (B.Sc.), Honours Computer Science with Software Engineering Specialization (Coop), Minor in Mathematics, University of Windsor**  
 (*September 2009 - June 2014*)
@@ -85,7 +85,7 @@ contributor on the OpenCL 2.2 specification.
 * **Workshops** (*July 2019*)
     * Ran a 3-day workshop titled *Introduction to Open Source Development* geared towards Masters of Applied Computing students
 
-* **Graduate Assistant/Lab Instructor** (*September 2014 - June 2021*)
+* **Graduate Assistant/Lab Instructor** (*May 2015 - August 2019*)
 
     Able to step in to 
     teach for any course the University of Windsor offers in Computer 
@@ -102,7 +102,7 @@ contributor on the OpenCL 2.2 specification.
     * 60-667 Networking and Data Security
     * 60-254 Data Structures and Algorithms
         
-* **Research Assistant / Graduate Research Assistant** (*September 2009 - Present*)
+* **Research Assistant / Graduate Research Assistant** (*September 2009 - December 2020*)
 
     Developing the SpeechWeb project and the research pertaining to natural language processing (NLP) for the project under Dr. Richard Frost.
     The research has a strong focus on functional programming and is currently based on Haskell.
