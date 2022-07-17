@@ -2,10 +2,10 @@ baseURL = "https://inbetweennames.net/"
 title = "Shane Peelar's Blog"
 theme = "manis"
 
-buildDrafts = true
+# buildDrafts = true
 
 # Copyright notice. Note: You can use HTML tag here
-copyright = "&copy; 2021 Shane Peelar"
+copyright = "&copy; 2022 Shane Peelar"
 pluralizeListTitles = false
 
 # Minimum number of posts before paginate navigation show up
